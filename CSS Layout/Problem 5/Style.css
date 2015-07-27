@@ -1,0 +1,65 @@
+body {
+	border: 2px solid black;
+	border-radius: 10px;
+	width: 800px;
+	height: 653px;
+	padding: 0px;
+	margin: 5px;
+}
+
+header {
+	text-align: center;
+	padding: 1px 0px;
+}
+
+header a {
+	color: #0EB4F0;
+}
+
+hr {
+  margin: -11px 20px 10px 20px;
+  color: black;
+}
+
+img {
+  width: 140px;
+  height: 98px;
+  float: left;
+  content:url("Laptop.png");
+}
+
+section {
+  border: 2px solid black;
+  float: left;
+  height: 554px;
+  width: 520px;
+  display: block;
+  margin: 0px 10px 10px 10px;
+  padding: 5px;
+}
+
+
+.inline {
+	display: inline-block;
+	width: 258px;
+
+}
+
+p {
+	float: left;
+	font-size: 25px;
+	margin-left: 10px;
+
+}
+
+input {
+  margin: -10px 0px 0px 30px;
+  float: left;
+  width: 204px;
+  margin-left: 12px;
+}
+
+#first {
+	margin-top: 90px;
+}
+

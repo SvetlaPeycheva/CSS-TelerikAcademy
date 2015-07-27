@@ -1,0 +1,101 @@
+body {
+	background-color: #F1F1F1;
+	border: 1px solid black;
+	height: 660px;
+	width: 820px;
+	font-size: 13px;
+	font-family: Arial;
+}
+
+div nav h3 {
+	background-image: url("Home2.jpg");
+	background-repeat: no-repeat;
+	background-color: transparent;
+}
+
+div nav h3 span {
+	margin-left: 25px;
+}
+
+nav ul li:first-child {
+        font-weight: bold;
+        color: #9A221F;
+    }
+
+nav ul li {
+		list-style-type: none;
+}
+
+nav ul {
+	padding-left: 4px;
+}
+
+section {
+	border: 1px solid grey;
+	background-color: white;
+}
+
+h3, h4 {
+	background-color: #808080;
+}
+
+div.right-panel div {
+	border: 1px solid grey;
+	margin-right: -5px;
+  	margin-bottom: 2px;
+  	margin-top: 5px;
+  	background-color: white;
+}
+
+.navigation-btn {
+  width: 100px;
+  height: 23px;
+  padding: 0px;
+  background-color: white;
+  border-color: gray;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.left-panel, .right-panel {
+	float: left;
+	width: 19%;
+}
+
+.center-panel {
+	background-color: white;
+	float: left;
+	width: 59%;
+	height: 580px;
+	margin-right: 5px;
+	margin-top: 5px;
+	border: 1px solid silver;
+	padding: 5px;
+}
+
+.center-panel a {
+	color: #931311;
+}
+
+.right-side {
+	padding-left: 0px;
+	text-align: center;
+}
+
+.right-side a {
+		color: #910D0B;
+}
+
+.text {
+	width: 100px;
+	border-color: #9DB4CA;
+}
+.tutorial {
+	font-size: 13px;
+}
+
+#style {
+	width: 110px;
+    height: 30px;
+    margin-top: 3px;
+}

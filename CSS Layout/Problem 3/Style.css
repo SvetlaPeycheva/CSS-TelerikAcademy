@@ -1,0 +1,81 @@
+body {
+	font-family: Tahoma, Arial, Serif;
+	font-weight: normal;
+	color: #A8A8A8;
+	padding: 0;
+	margin: 0;
+	height: 250px;
+}
+
+div {
+	padding: 5px 5px 0px 15px;
+	margin: 1px;
+	background-color: #3B3B3B;
+	border: 1px solid grey;
+	border-radius: 10px;
+	width: 637px;
+	height: 322px;
+	font-family: Varanda;
+
+
+}
+
+header {
+    margin-left: -13px;
+	background: background: -webkit-linear-gradient(#3B3B3B, #373737); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#3B3B3B, #373737); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#3B3B3B, #373737); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#3B3B3B, #373737); /* Standard syntax (must be last) */;
+}
+
+header label, header input, header button{
+    margin:10px;
+}
+
+label {
+      font-size: 22px;
+      color: white;
+}
+
+input {
+    width: 150px;
+    color: black;
+}
+
+p {
+    margin-right: 40px;
+}
+
+form{
+    display: inline-block;
+    vertical-align: 10%;
+}
+
+button{
+    background-color: background: -webkit-linear-gradient(#C80203, #CF0101, #FB0C0F); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#C80203, #CF0101, #FB0C0F); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#C80203, #CF0101, #FB0C0F); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#C80203, #CF0101, #FB0C0F); /* Standard syntax (must be last) */;
+    color:  white;
+    font-size: 1,5em;
+    border-radius: 10px;
+    min-height: 30px;
+    min-width: 60px;
+}
+
+h2{
+    font-size:2em;
+    font-weight: normal;
+    color: #F1D917;
+}
+
+strong{
+    color: #ffffff;
+}
+
+img{
+    width: 35px;
+    background: transparent;
+}
+
+}

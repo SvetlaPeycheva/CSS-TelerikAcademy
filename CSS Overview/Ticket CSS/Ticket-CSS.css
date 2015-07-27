@@ -1,0 +1,53 @@
+body { 
+   font-family: Arial;
+   font-weight: lighter;
+   margin: 0 0 0 0px;
+   font-size: 8pt;
+}
+
+table {
+   background-color: #595959;
+   width: 304px;
+   height: 205px;
+   text-align: left;
+}
+
+img { 
+	width: 12px;
+	height: 12px;
+	margin-right: 4px;
+}
+
+.label { 
+	color: #fffadc;
+	font-style: italic;
+	width:100px;
+}
+
+.red { 
+	color: #ff0000;
+}
+
+.grey { 
+	color: grey;
+}
+
+.blue { 
+	color: silver;
+}
+
+.orange { 
+	color: #db6449;
+}
+
+.yellow { 
+	color: #f1dc8c;
+}
+
+th {
+  font-weight: normal; 
+  font-size: 12pt;
+  line-height: 18pt; 
+  font-family: Arial; 
+  color: lightgrey
+}
